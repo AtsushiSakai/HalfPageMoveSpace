@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Half Page Scroll",
+  "version": "1.0",
+  "description": "Scroll half page on pressing space bar",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
