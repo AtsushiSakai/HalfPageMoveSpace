@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Half Page Scroll",
-  "version": "1.0",
+  "name": "Half Page Move Space",
+  "version": "0.1",
   "description": "Scroll half page on pressing space bar",
   "permissions": [
     "activeTab"
